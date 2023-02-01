@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 194" width="1440" height="194">
+	<title>New Project</title>
+	<defs>
+		<image width="1440" height="320" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDQwIDMyMCIgY2xhc3M9InN2Zy1iZyI+DQogICAgPHBhdGggZmlsbD0iIzcxODdhZSIgZmlsbC1vcGFjaXR5PSIxIiBkPSJNMCwyMjRMNjAsMjQwQzEyMCwyNTYsMjQwLDI4OCwzNjAsMjc3LjNDNDgwLDI2Nyw2MDAsMjEzLDcyMCwxNzZDODQwLDEzOSw5NjAsMTE3LDEwODAsMTM4LjdDMTIwMCwxNjAsMTMyMCwyMjQsMTM4MCwyNTZMMTQ0MCwyODhMMTQ0MCwwTDEzODAsMEMxMzIwLDAsMTIwMCwwLDEwODAsMEM5NjAsMCw4NDAsMCw3MjAsMEM2MDAsMCw0ODAsMCwzNjAsMEMyNDAsMCwxMjAsMCw2MCwwTDAsMFoiPjwvcGF0aD4NCjwvc3ZnPg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="blue-wave" href="#img1" transform="matrix(1,0,0,1,0,-94)"/>
+</svg>
